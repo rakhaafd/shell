@@ -9,8 +9,6 @@ git clone https://github.com/rakhaafd/shell.git
 ```
 
 2. Go to the Project Directory:
-project: Contains simple project that i make
-shellearn: Contains material
 ```bash
 cd project
 cd shellearn
